@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/bs2kbs2k/TPT4CS.svg?branch=master)](https://travis-ci.org/bs2kbs2k/TPT4CS)
 # TPT4CS
 TPT를 C#으로 구현하는 프로젝트입니다.
 ## 브랜치
